@@ -23,7 +23,6 @@ class Solution:
         
         return dummy_head.next
     
-
         # dummy_head = ListNode()
         # current = dummy_head
 
